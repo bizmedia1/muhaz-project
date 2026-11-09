@@ -2,7 +2,7 @@
   "paymentAmount": 15000,
   "paymentMethods": {
     "paga": true,
-    "manualBank": false
+    "manualBank": true
   },
   "manualBank": {
     "accountNumber": "0000000000",
