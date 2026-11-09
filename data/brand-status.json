@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "posts": []
+  "posts": [
+    {
+      "id": "49ec559d-1a9a-45e9-a77f-e0361d8c267e",
+      "brandId": "infinix",
+      "mediaType": "image",
+      "mediaUrl": "https://t.me",
+      "caption": "Ksmsmsns",
+      "active": true,
+      "createdAt": "2026-11-09T14:56:14.528Z"
+    }
+  ]
 }
