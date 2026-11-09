@@ -1,0 +1,82 @@
+{
+  "transactions": [
+    {
+      "id": "TXN-1793989587933",
+      "paymentId": "PAY-1793989556704-1Z57C7",
+      "customerName": "Akwkwkwnwn",
+      "email": "jaja@gmail.com",
+      "amount": 20000,
+      "method": "manualBank",
+      "reference": "",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-06T18:26:27.631Z"
+    },
+    {
+      "id": "TXN-1793870056026",
+      "paymentId": "PAY-1793870016358-0P4ZY0",
+      "customerName": "Akasmsmwm",
+      "email": "victorisrael539@gmail.com",
+      "amount": 15000,
+      "method": "paga",
+      "reference": "liora_paga_1793869941282",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-05T09:14:15.769Z"
+    },
+    {
+      "id": "TXN-1793841537982",
+      "paymentId": "PAY-1793841517607-G1T693",
+      "customerName": "Mamamaam",
+      "email": "victorisrael539@gmail.com",
+      "amount": 15000,
+      "method": "paga",
+      "reference": "liora_paga_1793841473065",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-05T01:18:57.737Z"
+    },
+    {
+      "id": "TXN-1793839872100",
+      "paymentId": "PAY-1793839811484-ILMNRX",
+      "customerName": "Mamamaam",
+      "email": "victorisrael539@gmail.com",
+      "amount": 15000,
+      "method": "paga",
+      "reference": "liora_paga_1793839794937",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-05T00:51:11.880Z"
+    },
+    {
+      "id": "TXN-1793839212088",
+      "paymentId": "PAY-1793839185345-101ODD",
+      "customerName": "Mamamaam",
+      "email": "victorisrael539@gmail.com",
+      "amount": 15000,
+      "method": "paga",
+      "reference": "liora_paga_1793839166338",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-05T00:40:11.863Z"
+    },
+    {
+      "id": "TXN-1793713907582",
+      "paymentId": "PAY-1793713838982-MPC8WK",
+      "customerName": "Akasmsmwm",
+      "email": "victorisrael539@gmail.com",
+      "amount": 15000,
+      "method": "paga",
+      "reference": "liora_paga_1793713811161",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-03T13:51:47.279Z"
+    }
+  ]
+}
